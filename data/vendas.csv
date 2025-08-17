@@ -1,101 +1,301 @@
-data,produto,quantidade,preco_unitario,valor_vendas
-2023-01-01,Smartphone,3,320.0,960
-2023-01-02,Notebook,12,322.6666666666667,3872
-2023-01-03,Tablet,8,399.0,3192
-2023-01-04,Headphone,3,188.66666666666666,566
-2023-01-05,Notebook,1,4526.0,4526
-2023-01-06,Notebook,3,1181.3333333333333,3544
-2023-01-07,Smartphone,5,654.2,3271
-2023-01-08,Smartphone,15,201.26666666666668,3019
-2023-01-09,Tablet,14,16.428571428571427,230
-2023-01-10,Headphone,3,595.0,1785
-2023-01-11,Smartphone,1,869.0,869
-2023-01-12,Notebook,5,498.2,2491
-2023-01-13,Headphone,14,180.92857142857142,2533
-2023-01-14,Headphone,7,183.42857142857142,1284
-2023-01-15,Notebook,9,517.2222222222222,4655
-2023-01-16,Smartphone,15,232.33333333333334,3485
-2023-01-17,Notebook,15,281.1333333333333,4217
-2023-01-18,Headphone,10,494.3,4943
-2023-01-19,Monitor,13,231.07692307692307,3004
-2023-01-20,Monitor,19,30.210526315789473,574
-2023-01-21,Tablet,7,168.85714285714286,1182
-2023-01-22,Notebook,17,156.35294117647058,2658
-2023-01-23,Notebook,4,536.75,2147
-2023-01-24,Tablet,5,569.4,2847
-2023-01-25,Tablet,7,153.57142857142858,1075
-2023-01-26,Tablet,13,146.6153846153846,1906
-2023-01-27,Headphone,15,19.266666666666666,289
-2023-01-28,Notebook,11,257.6363636363636,2834
-2023-01-29,Headphone,4,776.25,3105
-2023-01-30,Tablet,13,366.0,4758
-2023-01-31,Notebook,7,285.57142857142856,1999
-2023-02-01,Headphone,19,71.94736842105263,1367
-2023-02-02,Headphone,2,814.0,1628
-2023-02-03,Tablet,10,330.2,3302
-2023-02-04,Notebook,13,281.2307692307692,3656
-2023-02-05,Tablet,6,665.0,3990
-2023-02-06,Notebook,12,62.166666666666664,746
-2023-02-07,Monitor,12,249.0,2988
-2023-02-08,Smartphone,11,230.45454545454547,2535
-2023-02-09,Smartphone,7,100.0,700
-2023-02-10,Smartphone,1,2463.0,2463
-2023-02-11,Tablet,1,2161.0,2161
-2023-02-12,Monitor,13,26.23076923076923,341
-2023-02-13,Notebook,9,237.88888888888889,2141
-2023-02-14,Headphone,3,974.6666666666666,2924
-2023-02-15,Notebook,7,387.42857142857144,2712
-2023-02-16,Headphone,6,243.83333333333334,1463
-2023-02-17,Notebook,8,197.25,1578
-2023-02-18,Monitor,9,295.1111111111111,2656
-2023-02-19,Headphone,5,175.0,875
-2023-02-20,Tablet,1,4114.0,4114
-2023-02-21,Notebook,19,7.052631578947368,134
-2023-02-22,Notebook,10,325.2,3252
-2023-02-23,Headphone,12,171.25,2055
-2023-02-24,Tablet,15,112.33333333333333,1685
-2023-02-25,Tablet,9,449.22222222222223,4043
-2023-02-26,Monitor,17,186.64705882352942,3173
-2023-02-27,Tablet,17,65.94117647058823,1121
-2023-02-28,Tablet,12,296.75,3561
-2023-03-01,Tablet,7,387.57142857142856,2713
-2023-03-02,Smartphone,2,1971.5,3943
-2023-03-03,Monitor,3,533.3333333333334,1600
-2023-03-04,Notebook,17,288.11764705882354,4898
-2023-03-05,Headphone,5,52.2,261
-2023-03-06,Notebook,17,258.6470588235294,4397
-2023-03-07,Monitor,17,122.41176470588235,2081
-2023-03-08,Headphone,17,64.41176470588235,1095
-2023-03-09,Monitor,2,1721.0,3442
-2023-03-10,Tablet,2,2325.5,4651
-2023-03-11,Headphone,5,779.6,3898
-2023-03-12,Tablet,1,1375.0,1375
-2023-03-13,Notebook,1,1116.0,1116
-2023-03-14,Notebook,19,23.0,437
-2023-03-15,Headphone,2,489.0,978
-2023-03-16,Headphone,12,98.0,1176
-2023-03-17,Monitor,6,831.1666666666666,4987
-2023-03-18,Monitor,4,1023.25,4093
-2023-03-19,Tablet,11,450.8181818181818,4959
-2023-03-20,Headphone,17,28.176470588235293,479
-2023-03-21,Notebook,6,98.66666666666667,592
-2023-03-22,Monitor,5,432.4,2162
-2023-03-23,Monitor,2,1992.0,3984
-2023-03-24,Notebook,6,27.333333333333332,164
-2023-03-25,Monitor,11,242.54545454545453,2668
-2023-03-26,Tablet,16,132.9375,2127
-2023-03-27,Headphone,16,174.6875,2795
-2023-03-28,Notebook,1,1595.0,1595
-2023-03-29,Headphone,9,54.55555555555556,491
-2023-03-30,Monitor,6,769.0,4614
-2023-03-31,Monitor,16,285.875,4574
-2023-04-01,Notebook,3,1220.3333333333333,3661
-2023-04-02,Tablet,4,594.5,2378
-2023-04-03,Smartphone,19,168.3684210526316,3199
-2023-04-04,Notebook,3,100.0,300
-2023-04-05,Smartphone,19,261.8421052631579,4975
-2023-04-06,Smartphone,7,457.7142857142857,3204
-2023-04-07,Tablet,9,522.0,4698
-2023-04-08,Smartphone,1,2554.0,2554
-2023-04-09,Smartphone,8,468.125,3745
-2023-04-10,Tablet,7,129.14285714285714,904
+data,produto,categoria,quantidade,preco_unitario,valor_total
+2023-01-12,Cafeteira Philips,Utensílios,1,213,213
+2023-03-08,Ventilador Arno,Eletrodomésticos,3,2286,6858
+2023-04-13,Cafeteira Philips,Utensílios,4,719,2876
+2023-01-13,Fone JBL,Eletrônicos,1,2407,2407
+2023-06-04,Tablet Lenovo,Eletrônicos,3,405,1215
+2023-01-31,Celular Samsung,Eletrônicos,2,4444,8888
+2023-02-14,Geladeira Brastemp,Eletrodomésticos,1,474,474
+2023-04-25,Notebook Dell,Eletrônicos,3,4890,14670
+2023-04-08,Notebook Dell,Eletrônicos,2,2353,4706
+2023-01-09,Tablet Lenovo,Eletrônicos,5,1025,5125
+2023-01-19,Tablet Lenovo,Eletrônicos,2,640,1280
+2023-06-20,Cafeteira Philips,Utensílios,5,3445,17225
+2023-05-08,Celular Samsung,Eletrônicos,4,3593,14372
+2023-01-10,Notebook Dell,Eletrônicos,5,1122,5610
+2023-02-15,Ventilador Arno,Eletrodomésticos,1,4719,4719
+2023-05-31,Notebook Dell,Eletrônicos,1,3170,3170
+2023-03-24,Cafeteira Philips,Utensílios,4,3804,15216
+2023-05-27,Celular Samsung,Eletrônicos,1,4021,4021
+2023-01-18,Impressora HP,Eletrônicos,2,1340,2680
+2023-05-04,Notebook Dell,Eletrônicos,2,489,978
+2023-02-07,Ventilador Arno,Eletrodomésticos,1,1799,1799
+2023-03-30,Tablet Lenovo,Eletrônicos,4,3457,13828
+2023-05-25,Celular Samsung,Eletrônicos,2,4769,9538
+2023-03-01,Notebook Dell,Eletrônicos,4,1560,6240
+2023-02-11,Micro-ondas Consul,Eletrodomésticos,3,4658,13974
+2023-05-19,Notebook Dell,Eletrônicos,4,1824,7296
+2023-03-31,Micro-ondas Consul,Eletrodomésticos,5,336,1680
+2023-04-24,Cafeteira Philips,Utensílios,3,1443,4329
+2023-06-16,Ventilador Arno,Eletrodomésticos,1,2911,2911
+2023-05-15,Tablet Lenovo,Eletrônicos,2,569,1138
+2023-02-11,Notebook Dell,Eletrônicos,2,2796,5592
+2023-06-17,Micro-ondas Consul,Eletrodomésticos,1,2046,2046
+2023-06-12,Tablet Lenovo,Eletrônicos,5,1997,9985
+2023-05-28,"TV LG 50""",Eletrônicos,2,1298,2596
+2023-05-15,Ventilador Arno,Eletrodomésticos,4,2133,8532
+2023-05-06,Celular Samsung,Eletrônicos,2,2867,5734
+2023-04-28,Ventilador Arno,Eletrodomésticos,2,3419,6838
+2023-06-20,Fone JBL,Eletrônicos,2,3471,6942
+2023-03-31,Impressora HP,Eletrônicos,1,3274,3274
+2023-04-19,Notebook Dell,Eletrônicos,3,3573,10719
+2023-05-15,Geladeira Brastemp,Eletrodomésticos,5,1679,8395
+2023-04-23,Tablet Lenovo,Eletrônicos,5,4823,24115
+2023-02-23,Notebook Dell,Eletrônicos,3,2808,8424
+2023-03-01,Notebook Dell,Eletrônicos,3,3639,10917
+2023-02-22,Cafeteira Philips,Utensílios,4,148,592
+2023-01-16,Cafeteira Philips,Utensílios,2,3243,6486
+2023-05-29,Tablet Lenovo,Eletrônicos,4,3638,14552
+2023-03-13,Notebook Dell,Eletrônicos,5,2027,10135
+2023-01-22,Fone JBL,Eletrônicos,5,1154,5770
+2023-05-30,Cafeteira Philips,Utensílios,3,1290,3870
+2023-04-25,Ventilador Arno,Eletrodomésticos,5,3787,18935
+2023-06-05,Micro-ondas Consul,Eletrodomésticos,5,1744,8720
+2023-01-11,Celular Samsung,Eletrônicos,5,1944,9720
+2023-06-07,Notebook Dell,Eletrônicos,1,4312,4312
+2023-04-29,Cafeteira Philips,Utensílios,1,2100,2100
+2023-02-27,Fone JBL,Eletrônicos,4,775,3100
+2023-04-01,Tablet Lenovo,Eletrônicos,2,2245,4490
+2023-05-22,"TV LG 50""",Eletrônicos,5,889,4445
+2023-03-05,Fone JBL,Eletrônicos,1,3619,3619
+2023-06-04,Notebook Dell,Eletrônicos,1,4021,4021
+2023-05-13,Geladeira Brastemp,Eletrodomésticos,4,2544,10176
+2023-05-23,Notebook Dell,Eletrônicos,5,4915,24575
+2023-06-11,Impressora HP,Eletrônicos,4,3540,14160
+2023-01-24,Ventilador Arno,Eletrodomésticos,2,3106,6212
+2023-01-23,Micro-ondas Consul,Eletrodomésticos,5,3781,18905
+2023-06-28,Celular Samsung,Eletrônicos,4,1226,4904
+2023-03-25,Impressora HP,Eletrônicos,4,1981,7924
+2023-01-23,Celular Samsung,Eletrônicos,4,1297,5188
+2023-05-13,Ventilador Arno,Eletrodomésticos,3,1313,3939
+2023-06-02,Geladeira Brastemp,Eletrodomésticos,2,1754,3508
+2023-04-14,Tablet Lenovo,Eletrônicos,2,4549,9098
+2023-06-26,Impressora HP,Eletrônicos,5,2780,13900
+2023-03-25,Tablet Lenovo,Eletrônicos,4,3686,14744
+2023-02-20,Fone JBL,Eletrônicos,5,1619,8095
+2023-01-16,Geladeira Brastemp,Eletrodomésticos,4,4019,16076
+2023-05-06,Ventilador Arno,Eletrodomésticos,1,647,647
+2023-04-01,Tablet Lenovo,Eletrônicos,4,2142,8568
+2023-05-05,Impressora HP,Eletrônicos,1,3168,3168
+2023-01-05,Notebook Dell,Eletrônicos,3,4359,13077
+2023-05-30,"TV LG 50""",Eletrônicos,1,639,639
+2023-05-16,Tablet Lenovo,Eletrônicos,3,3715,11145
+2023-02-09,Fone JBL,Eletrônicos,2,2149,4298
+2023-01-17,"TV LG 50""",Eletrônicos,2,942,1884
+2023-02-15,"TV LG 50""",Eletrônicos,4,1837,7348
+2023-05-23,Notebook Dell,Eletrônicos,1,2500,2500
+2023-04-10,Ventilador Arno,Eletrodomésticos,3,399,1197
+2023-03-25,Cafeteira Philips,Utensílios,3,500,1500
+2023-05-19,Impressora HP,Eletrônicos,3,4478,13434
+2023-04-09,Notebook Dell,Eletrônicos,5,4438,22190
+2023-04-20,Geladeira Brastemp,Eletrodomésticos,5,1305,6525
+2023-06-27,Geladeira Brastemp,Eletrodomésticos,5,1387,6935
+2023-04-06,Geladeira Brastemp,Eletrodomésticos,4,1286,5144
+2023-01-30,Micro-ondas Consul,Eletrodomésticos,4,1735,6940
+2023-01-26,Impressora HP,Eletrônicos,3,1484,4452
+2023-03-17,Celular Samsung,Eletrônicos,3,1527,4581
+2023-03-13,"TV LG 50""",Eletrônicos,3,2145,6435
+2023-02-16,Geladeira Brastemp,Eletrodomésticos,2,4704,9408
+2023-02-10,Tablet Lenovo,Eletrônicos,4,4553,18212
+2023-06-15,Tablet Lenovo,Eletrônicos,2,783,1566
+2023-01-04,Tablet Lenovo,Eletrônicos,1,3403,3403
+2023-02-23,Ventilador Arno,Eletrodomésticos,2,3845,7690
+2023-03-10,Tablet Lenovo,Eletrônicos,2,2679,5358
+2023-03-10,Celular Samsung,Eletrônicos,1,504,504
+2023-05-25,Celular Samsung,Eletrônicos,3,616,1848
+2023-02-15,"TV LG 50""",Eletrônicos,2,3265,6530
+2023-04-04,Fone JBL,Eletrônicos,2,1650,3300
+2023-05-07,Impressora HP,Eletrônicos,1,597,597
+2023-03-12,Notebook Dell,Eletrônicos,5,3166,15830
+2023-04-03,"TV LG 50""",Eletrônicos,4,2638,10552
+2023-04-20,Tablet Lenovo,Eletrônicos,5,4550,22750
+2023-05-09,Fone JBL,Eletrônicos,3,1317,3951
+2023-04-29,Micro-ondas Consul,Eletrodomésticos,3,4719,14157
+2023-01-28,Cafeteira Philips,Utensílios,2,2787,5574
+2023-05-14,Ventilador Arno,Eletrodomésticos,1,3711,3711
+2023-03-03,"TV LG 50""",Eletrônicos,3,2624,7872
+2023-05-13,Cafeteira Philips,Utensílios,3,2904,8712
+2023-01-21,Celular Samsung,Eletrônicos,2,2564,5128
+2023-03-17,Ventilador Arno,Eletrodomésticos,5,3054,15270
+2023-06-09,Impressora HP,Eletrônicos,3,1846,5538
+2023-01-26,Cafeteira Philips,Utensílios,1,2334,2334
+2023-05-28,Fone JBL,Eletrônicos,3,2062,6186
+2023-02-11,"TV LG 50""",Eletrônicos,4,4206,16824
+2023-05-15,Celular Samsung,Eletrônicos,1,2960,2960
+2023-06-10,Micro-ondas Consul,Eletrodomésticos,1,4827,4827
+2023-04-08,Geladeira Brastemp,Eletrodomésticos,1,681,681
+2023-03-07,Impressora HP,Eletrônicos,1,3370,3370
+2023-04-28,Celular Samsung,Eletrônicos,2,3648,7296
+2023-03-17,"TV LG 50""",Eletrônicos,1,2164,2164
+2023-06-27,Cafeteira Philips,Utensílios,1,2919,2919
+2023-03-09,Fone JBL,Eletrônicos,4,3022,12088
+2023-03-15,Impressora HP,Eletrônicos,3,3946,11838
+2023-05-20,Geladeira Brastemp,Eletrodomésticos,5,1985,9925
+2023-06-17,Tablet Lenovo,Eletrônicos,4,4238,16952
+2023-01-25,Impressora HP,Eletrônicos,3,2637,7911
+2023-02-11,Cafeteira Philips,Utensílios,5,4416,22080
+2023-06-09,Geladeira Brastemp,Eletrodomésticos,2,1268,2536
+2023-02-11,"TV LG 50""",Eletrônicos,3,1608,4824
+2023-03-03,Fone JBL,Eletrônicos,5,1755,8775
+2023-06-21,"TV LG 50""",Eletrônicos,3,3040,9120
+2023-03-27,Notebook Dell,Eletrônicos,2,1419,2838
+2023-02-20,"TV LG 50""",Eletrônicos,5,328,1640
+2023-03-30,Cafeteira Philips,Utensílios,2,3795,7590
+2023-04-27,Notebook Dell,Eletrônicos,1,1294,1294
+2023-05-07,Celular Samsung,Eletrônicos,2,524,1048
+2023-01-21,Geladeira Brastemp,Eletrodomésticos,2,2851,5702
+2023-04-18,Cafeteira Philips,Utensílios,1,1997,1997
+2023-02-13,Impressora HP,Eletrônicos,3,1187,3561
+2023-05-14,"TV LG 50""",Eletrônicos,1,4625,4625
+2023-06-30,Notebook Dell,Eletrônicos,4,2408,9632
+2023-05-03,Cafeteira Philips,Utensílios,1,1434,1434
+2023-01-22,Celular Samsung,Eletrônicos,4,4238,16952
+2023-05-28,Notebook Dell,Eletrônicos,3,1960,5880
+2023-02-25,Ventilador Arno,Eletrodomésticos,5,3453,17265
+2023-06-30,Impressora HP,Eletrônicos,2,1456,2912
+2023-06-29,Impressora HP,Eletrônicos,2,4962,9924
+2023-01-24,"TV LG 50""",Eletrônicos,1,894,894
+2023-03-20,Fone JBL,Eletrônicos,3,4699,14097
+2023-04-24,Celular Samsung,Eletrônicos,4,3120,12480
+2023-05-08,"TV LG 50""",Eletrônicos,1,4978,4978
+2023-01-18,Cafeteira Philips,Utensílios,2,4543,9086
+2023-04-03,Fone JBL,Eletrônicos,5,4544,22720
+2023-01-31,Impressora HP,Eletrônicos,2,4838,9676
+2023-04-05,Micro-ondas Consul,Eletrodomésticos,2,1848,3696
+2023-01-01,Micro-ondas Consul,Eletrodomésticos,3,4085,12255
+2023-05-14,"TV LG 50""",Eletrônicos,3,2808,8424
+2023-02-13,Micro-ondas Consul,Eletrodomésticos,2,131,262
+2023-02-09,Micro-ondas Consul,Eletrodomésticos,2,828,1656
+2023-03-25,Celular Samsung,Eletrônicos,2,1454,2908
+2023-05-18,Tablet Lenovo,Eletrônicos,2,2888,5776
+2023-05-15,Notebook Dell,Eletrônicos,3,3094,9282
+2023-06-21,Tablet Lenovo,Eletrônicos,1,425,425
+2023-05-13,Ventilador Arno,Eletrodomésticos,1,1380,1380
+2023-02-21,Ventilador Arno,Eletrodomésticos,4,441,1764
+2023-04-02,Celular Samsung,Eletrônicos,5,4723,23615
+2023-04-19,Fone JBL,Eletrônicos,1,487,487
+2023-04-25,Cafeteira Philips,Utensílios,3,2391,7173
+2023-06-23,Celular Samsung,Eletrônicos,5,3806,19030
+2023-05-09,Ventilador Arno,Eletrodomésticos,3,824,2472
+2023-04-28,"TV LG 50""",Eletrônicos,5,1953,9765
+2023-05-18,Impressora HP,Eletrônicos,4,4619,18476
+2023-05-17,Celular Samsung,Eletrônicos,2,3809,7618
+2023-04-08,Fone JBL,Eletrônicos,5,2307,11535
+2023-05-29,Tablet Lenovo,Eletrônicos,4,4467,17868
+2023-03-15,Cafeteira Philips,Utensílios,3,2131,6393
+2023-01-01,Micro-ondas Consul,Eletrodomésticos,5,3574,17870
+2023-04-18,Fone JBL,Eletrônicos,2,1560,3120
+2023-01-26,Ventilador Arno,Eletrodomésticos,5,4557,22785
+2023-01-05,"TV LG 50""",Eletrônicos,2,2615,5230
+2023-05-29,Ventilador Arno,Eletrodomésticos,4,407,1628
+2023-06-10,Fone JBL,Eletrônicos,1,654,654
+2023-02-16,Micro-ondas Consul,Eletrodomésticos,2,2408,4816
+2023-05-12,Notebook Dell,Eletrônicos,1,2673,2673
+2023-03-20,Fone JBL,Eletrônicos,3,4304,12912
+2023-04-30,Fone JBL,Eletrônicos,2,4813,9626
+2023-05-21,Micro-ondas Consul,Eletrodomésticos,2,463,926
+2023-06-21,Geladeira Brastemp,Eletrodomésticos,5,4325,21625
+2023-03-02,Impressora HP,Eletrônicos,2,4317,8634
+2023-05-10,Cafeteira Philips,Utensílios,3,4577,13731
+2023-05-27,"TV LG 50""",Eletrônicos,3,1140,3420
+2023-03-01,Impressora HP,Eletrônicos,4,2059,8236
+2023-05-09,Fone JBL,Eletrônicos,4,4767,19068
+2023-01-10,Notebook Dell,Eletrônicos,1,1217,1217
+2023-04-03,Impressora HP,Eletrônicos,2,1337,2674
+2023-02-20,Tablet Lenovo,Eletrônicos,1,746,746
+2023-02-05,Ventilador Arno,Eletrodomésticos,5,4420,22100
+2023-04-22,Geladeira Brastemp,Eletrodomésticos,1,1322,1322
+2023-05-03,Impressora HP,Eletrônicos,3,2959,8877
+2023-03-29,Cafeteira Philips,Utensílios,5,4991,24955
+2023-03-05,Impressora HP,Eletrônicos,3,526,1578
+2023-03-26,Cafeteira Philips,Utensílios,1,4660,4660
+2023-02-24,Tablet Lenovo,Eletrônicos,2,994,1988
+2023-05-25,Cafeteira Philips,Utensílios,3,4361,13083
+2023-02-15,Impressora HP,Eletrônicos,4,1929,7716
+2023-02-18,Celular Samsung,Eletrônicos,5,832,4160
+2023-04-04,Ventilador Arno,Eletrodomésticos,1,4372,4372
+2023-03-26,Fone JBL,Eletrônicos,4,1454,5816
+2023-03-09,Cafeteira Philips,Utensílios,2,2805,5610
+2023-06-01,Impressora HP,Eletrônicos,5,2246,11230
+2023-02-24,"TV LG 50""",Eletrônicos,2,366,732
+2023-04-14,"TV LG 50""",Eletrônicos,5,3089,15445
+2023-06-15,Tablet Lenovo,Eletrônicos,2,3011,6022
+2023-04-05,Impressora HP,Eletrônicos,3,2590,7770
+2023-03-09,Celular Samsung,Eletrônicos,4,4191,16764
+2023-06-08,Geladeira Brastemp,Eletrodomésticos,2,4021,8042
+2023-01-30,"TV LG 50""",Eletrônicos,1,3005,3005
+2023-01-12,Tablet Lenovo,Eletrônicos,1,1452,1452
+2023-01-05,Notebook Dell,Eletrônicos,2,2841,5682
+2023-02-27,Geladeira Brastemp,Eletrodomésticos,2,2114,4228
+2023-05-13,Fone JBL,Eletrônicos,1,3857,3857
+2023-06-04,Celular Samsung,Eletrônicos,3,4082,12246
+2023-05-02,Ventilador Arno,Eletrodomésticos,2,678,1356
+2023-05-10,Geladeira Brastemp,Eletrodomésticos,1,3775,3775
+2023-05-12,Cafeteira Philips,Utensílios,5,1367,6835
+2023-01-17,Fone JBL,Eletrônicos,1,2712,2712
+2023-03-25,Impressora HP,Eletrônicos,4,1698,6792
+2023-04-14,Cafeteira Philips,Utensílios,2,3072,6144
+2023-01-21,Tablet Lenovo,Eletrônicos,1,2727,2727
+2023-03-20,Impressora HP,Eletrônicos,5,750,3750
+2023-01-04,Ventilador Arno,Eletrodomésticos,4,507,2028
+2023-05-01,Cafeteira Philips,Utensílios,5,3824,19120
+2023-01-16,Micro-ondas Consul,Eletrodomésticos,2,1695,3390
+2023-06-05,Impressora HP,Eletrônicos,5,1183,5915
+2023-04-04,Cafeteira Philips,Utensílios,1,763,763
+2023-06-09,Tablet Lenovo,Eletrônicos,2,3705,7410
+2023-04-04,Geladeira Brastemp,Eletrodomésticos,2,568,1136
+2023-06-01,Tablet Lenovo,Eletrônicos,3,3754,11262
+2023-05-25,Tablet Lenovo,Eletrônicos,3,426,1278
+2023-02-26,Celular Samsung,Eletrônicos,1,3227,3227
+2023-05-03,Fone JBL,Eletrônicos,5,361,1805
+2023-01-12,"TV LG 50""",Eletrônicos,2,4764,9528
+2023-03-31,Celular Samsung,Eletrônicos,2,2315,4630
+2023-04-26,Ventilador Arno,Eletrodomésticos,4,2654,10616
+2023-06-01,Celular Samsung,Eletrônicos,2,1472,2944
+2023-03-15,Ventilador Arno,Eletrodomésticos,2,3761,7522
+2023-05-26,Ventilador Arno,Eletrodomésticos,2,4310,8620
+2023-01-09,Cafeteira Philips,Utensílios,2,4957,9914
+2023-05-11,Fone JBL,Eletrônicos,5,2712,13560
+2023-01-14,Geladeira Brastemp,Eletrodomésticos,4,2516,10064
+2023-01-25,Fone JBL,Eletrônicos,3,790,2370
+2023-05-14,Cafeteira Philips,Utensílios,1,540,540
+2023-05-17,Micro-ondas Consul,Eletrodomésticos,4,1734,6936
+2023-04-19,Geladeira Brastemp,Eletrodomésticos,1,532,532
+2023-02-27,Celular Samsung,Eletrônicos,1,2100,2100
+2023-05-05,Notebook Dell,Eletrônicos,3,2479,7437
+2023-04-04,Geladeira Brastemp,Eletrodomésticos,2,591,1182
+2023-04-30,Micro-ondas Consul,Eletrodomésticos,4,4323,17292
+2023-06-21,Notebook Dell,Eletrônicos,5,3273,16365
+2023-06-03,Notebook Dell,Eletrônicos,5,4423,22115
+2023-02-24,Tablet Lenovo,Eletrônicos,4,3227,12908
+2023-02-13,Fone JBL,Eletrônicos,2,459,918
+2023-06-29,Geladeira Brastemp,Eletrodomésticos,5,3392,16960
+2023-05-04,Cafeteira Philips,Utensílios,1,437,437
+2023-04-02,Impressora HP,Eletrônicos,3,3300,9900
+2023-03-13,Micro-ondas Consul,Eletrodomésticos,4,2838,11352
+2023-03-01,Celular Samsung,Eletrônicos,4,4524,18096
+2023-03-30,Micro-ondas Consul,Eletrodomésticos,3,1689,5067
+2023-04-24,Fone JBL,Eletrônicos,1,4974,4974
+2023-04-18,Ventilador Arno,Eletrodomésticos,2,1251,2502
+2023-05-19,Impressora HP,Eletrônicos,2,4532,9064
+2023-04-09,Notebook Dell,Eletrônicos,1,1455,1455
+2023-02-09,Tablet Lenovo,Eletrônicos,3,3179,9537
+2023-05-06,Fone JBL,Eletrônicos,3,539,1617
+2023-06-20,Notebook Dell,Eletrônicos,2,1382,2764
+2023-05-23,"TV LG 50""",Eletrônicos,1,1291,1291
+2023-05-28,Geladeira Brastemp,Eletrodomésticos,1,3596,3596
+2023-01-29,Ventilador Arno,Eletrodomésticos,1,1118,1118
+2023-01-20,Geladeira Brastemp,Eletrodomésticos,4,1610,6440
+2023-02-27,Tablet Lenovo,Eletrônicos,4,1448,5792
+2023-01-12,Fone JBL,Eletrônicos,3,4684,14052
+2023-05-20,Fone JBL,Eletrônicos,3,3768,11304
+2023-01-01,Notebook Dell,Eletrônicos,1,3779,3779
+2023-05-03,Ventilador Arno,Eletrodomésticos,2,3587,7174
+2023-03-26,Celular Samsung,Eletrônicos,4,3802,15208
+2023-01-31,Cafeteira Philips,Utensílios,5,1235,6175
+2023-01-21,"TV LG 50""",Eletrônicos,1,3516,3516
+2023-03-04,Micro-ondas Consul,Eletrodomésticos,1,206,206
+2023-01-08,Geladeira Brastemp,Eletrodomésticos,3,2105,6315
+2023-06-10,Impressora HP,Eletrônicos,3,682,2046
+2023-02-17,Micro-ondas Consul,Eletrodomésticos,1,1480,1480
+2023-02-12,Ventilador Arno,Eletrodomésticos,5,4028,20140
